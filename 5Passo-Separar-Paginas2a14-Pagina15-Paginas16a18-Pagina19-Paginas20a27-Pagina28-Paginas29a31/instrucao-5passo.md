@@ -1,5 +1,4 @@
-analisar as páginas do pdf e ver quais tem as questões em duas colunas e quais são a página inteira
+Puxe a pasta "divididas-sem-bordas-do-meio" do passo 4 para este passo.  
+Puxe a pasta "inteiras" do passo 3 para este passo.  
 
-as paginas 15, 19 e 28 não estão dividas em colunas. Vai ter que pegar do passo 2
-
-separar cada grupo em pastas
+O objetivo é apenas organizar exatamente o que você vai precisar usar.
